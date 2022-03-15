@@ -1,0 +1,7 @@
+.form-horizontal{
+    border: gray solid;
+    align-items: center;
+    margin: 0 auto;
+
+}
+#success_message{ display: none;}
